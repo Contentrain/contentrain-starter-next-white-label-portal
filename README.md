@@ -4,6 +4,10 @@
 
 Next.js starter for products that need tenant-specific terminology, support language, locale coverage, and brand-aware portal content.
 
+![Contentrain Next White-Label Portal cover](./media/cover.png)
+
+![Contentrain Next White-Label Portal preview](./media/preview.gif)
+
 ## Start
 
 ```bash
