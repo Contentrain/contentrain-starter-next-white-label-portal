@@ -1,4 +1,5 @@
-<!-- cover -->
+<p align="center"><img src=".github/cover.png" alt="Contentrain Next.js white-label portal starter — content in Git" width="100%"></p>
+
 # Contentrain Next White-Label Portal
 
 A Next.js (App Router) starter for a portal that serves several tenants: each tenant's name, terminology, available locales, support links and brand badge are typed Contentrain content, not conditionals in components.
@@ -54,11 +55,14 @@ Content lives in `.contentrain/` (models in `models/`, entries in `content/`). P
 
 ## Contentrain
 
-Contentrain is a content governance ecosystem for teams and AI agents: content stays in your repository as typed JSON, with schemas, validation and git history.
+Contentrain is a content governance ecosystem for teams and AI agents: content stays in your repository as typed JSON, with schemas, validation and git history. It has four parts: the open-source tools, Studio, Migrate and Bridge.
 
 - Docs, CLI and SDK: [ai.contentrain.io](https://ai.contentrain.io)
 - Next.js guide: [ai.contentrain.io/guides/frameworks#next-js-app-router](https://ai.contentrain.io/guides/frameworks#next-js-app-router)
 - Studio: [contentrain.io/studio](https://contentrain.io/studio)
+- Open-source tools (MIT): [github.com/Contentrain/ai](https://github.com/Contentrain/ai)
+- Migrate, WordPress to Astro: [migrate.contentrain.io](https://migrate.contentrain.io)
+- Bridge, a free WordPress plugin that exports content as a Contentrain store: [github.com/Contentrain/wordpress-bridge](https://github.com/Contentrain/wordpress-bridge)
 
 ## Deploy
 
