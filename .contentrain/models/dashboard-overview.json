@@ -27,5 +27,6 @@
   },
   "i18n": true,
   "id": "dashboard-overview",
-  "kind": "singleton"
+  "kind": "singleton",
+  "title_field": "title"
 }

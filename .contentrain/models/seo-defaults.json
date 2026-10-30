@@ -21,5 +21,6 @@
   },
   "i18n": true,
   "id": "seo-defaults",
-  "kind": "singleton"
+  "kind": "singleton",
+  "title_field": "meta_title"
 }

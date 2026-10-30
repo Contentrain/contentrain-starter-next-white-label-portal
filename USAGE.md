@@ -41,7 +41,6 @@ pnpm dlx netlify-cli link
 
 ## Contentrain references
 
-- SDK and CLI: https://ai.contentrain.io/packages/sdk.html
-- Docs: https://docs.contentrain.io/
-- Studio: https://studio.contentrain.io/
-
+- Docs, CLI and SDK: https://ai.contentrain.io
+- Next.js guide: https://ai.contentrain.io/guides/frameworks#next-js-app-router
+- Studio: https://contentrain.io/studio

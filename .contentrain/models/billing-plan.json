@@ -31,5 +31,6 @@
   },
   "i18n": true,
   "id": "billing-plan",
-  "kind": "collection"
+  "kind": "collection",
+  "title_field": "name"
 }

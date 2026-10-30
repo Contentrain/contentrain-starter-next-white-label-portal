@@ -33,5 +33,6 @@
   },
   "i18n": true,
   "id": "settings-group",
-  "kind": "collection"
+  "kind": "collection",
+  "title_field": "title"
 }
