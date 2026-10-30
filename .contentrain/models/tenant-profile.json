@@ -55,5 +55,6 @@
   },
   "i18n": true,
   "id": "tenant-profile",
-  "kind": "collection"
+  "kind": "collection",
+  "title_field": "name"
 }

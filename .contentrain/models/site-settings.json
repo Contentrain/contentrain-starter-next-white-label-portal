@@ -22,5 +22,6 @@
   },
   "i18n": true,
   "id": "site-settings",
-  "kind": "singleton"
+  "kind": "singleton",
+  "title_field": "site_name"
 }

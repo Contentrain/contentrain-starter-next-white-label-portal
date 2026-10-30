@@ -2,6 +2,7 @@
   "domain": "system",
   "fields": {
     "announcement_label": {
+      "required": true,
       "type": "string"
     },
     "cta_href": {
@@ -32,5 +33,6 @@
   },
   "i18n": true,
   "id": "navigation",
-  "kind": "singleton"
+  "kind": "singleton",
+  "title_field": "announcement_label"
 }

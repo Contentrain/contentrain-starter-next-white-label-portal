@@ -31,5 +31,6 @@
   },
   "i18n": true,
   "id": "audit-event",
-  "kind": "collection"
+  "kind": "collection",
+  "title_field": "title"
 }
