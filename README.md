@@ -60,6 +60,7 @@ Contentrain is a content governance ecosystem for teams and AI agents: content s
 - Docs, CLI and SDK: [ai.contentrain.io](https://ai.contentrain.io)
 - Next.js guide: [ai.contentrain.io/guides/frameworks#next-js-app-router](https://ai.contentrain.io/guides/frameworks#next-js-app-router)
 - Studio: [contentrain.io/studio](https://contentrain.io/studio)
+- Edit with an AI agent: [@contentrain/mcp](https://ai.contentrain.io/packages/mcp) locally, or [Studio MCP Cloud](https://docs.contentrain.io/developer/mcp-cloud) for teams
 - Open-source tools (MIT): [github.com/Contentrain/ai](https://github.com/Contentrain/ai)
 - Migrate, WordPress to Astro: [migrate.contentrain.io](https://migrate.contentrain.io)
 - Bridge, a free WordPress plugin that exports content as a Contentrain store: [github.com/Contentrain/wordpress-bridge](https://github.com/Contentrain/wordpress-bridge)
